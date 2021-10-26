@@ -1,0 +1,26 @@
+
+#fancy {
+    color:seagreen;
+}
+
+#boxybox {
+    position: sticky;
+    top: 0;
+}
+p {
+    color: thistle
+}
+
+div {
+    background-color:slateblue;
+    border: 3.5px solid yellow;
+}
+
+.heading {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.content {
+    color:orangered;
+}
